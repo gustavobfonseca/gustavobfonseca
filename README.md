@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-perfil">
+  <a href="https://linkedin.com/in/gustavo-bueno-fonseca-19ba5a2aa/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -48,5 +48,5 @@
 
 ### 📊 Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavobfonseca&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
